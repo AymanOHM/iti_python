@@ -1,0 +1,2 @@
+bookstore||sells books||200000||12/5/2009||23/7/2056||dead||aymanosama|01024555798
+restaurant||great food||450000||23/6/2019||2/3/2156||yummy||aymanosama|01024555798
