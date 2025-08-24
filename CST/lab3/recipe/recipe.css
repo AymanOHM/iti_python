@@ -1,0 +1,19 @@
+
+
+h1, h2{
+    color: #8F9108;
+    background-color: #E9E9E9;
+    text-decoration: underline;
+}
+.title h1 {
+    text-align: center;
+
+}
+.comments p {
+    background-color: #FFFFBD;
+    text-decoration: italic;
+}
+
+a {
+   color: #8F9108; 
+}

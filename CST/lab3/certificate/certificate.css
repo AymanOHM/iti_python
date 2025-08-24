@@ -1,0 +1,47 @@
+body {
+    background-image: url('./wall.png');
+}
+
+.card {
+    background-image: none;
+    background-color: #FFFFFF;
+    border: 10px groove;
+    width: 450px;
+    margin: auto;
+    padding: 40px;
+}
+div div {
+    margin: 10px;
+    background-color: #feb5a8;
+    border: 2px solid grey;
+}
+
+.head {   
+    display: flex;
+    justify-content: center; 
+    align-items: center;     
+    padding: 10px 40px;
+}
+.link {
+    text-align: center;
+    font-size: 13px;
+    padding: 10px;
+}
+.detail {
+    padding: 10px 40px;
+}
+.detail h2 {
+    text-decoration: underline;
+}
+.calculator {
+    width: 20px;
+    height: 20px;
+}
+a {
+    text-decoration: none;
+    color: #CC2835;
+}
+
+.footer {
+    text-align: center;
+}
